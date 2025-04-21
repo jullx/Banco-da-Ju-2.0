@@ -13,7 +13,7 @@ Esse é um projeto didático em Python que simula um sistema bancário no termin
 
 ---
 
-## 🚀 **Como executar**
+# 🚀 **Como executar**
 
 Clone o repositório ou baixe o arquivo:
 
@@ -22,7 +22,7 @@ git clone https://github.com/seu-usuario/banco-da-julia.git
 cd banco-da-julia
 python "Banco da Ju .py"
 
-##💡 **Exemplo de uso**
+# 💡 **Exemplo de uso**
 Bem-vindo(a) ao Banco da Júlia, o melhor do Brasil - rápido, fácil e simples!
 
 O que você quer fazer?
@@ -31,16 +31,16 @@ O que você quer fazer?
 3 - Sacar dinheiro
 4 - Sair
 
-##🔮 **Melhorias Futuras**
+# 🔮 **Melhorias Futuras**
 🔐 Login com usuário e senha
 🧾 Histórico de transações
 💾 Salvamento de dados com arquivos ou banco de dados
 🖼️ Interface gráfica com Tkinter
 🌐 Interface web com Flask ou Django
 
-##🧠 **Tecnologias**
+# 🧠 **Tecnologias**
 Linguagem: Python 3.x
 Estilo: Terminal Interativo
 
-##👩‍💻 **Desenvolvido por**
+# 👩‍💻 **Desenvolvido por**
 Júlia Lopes – estudante apaixonada por tecnologia, direito digital e inteligência artificial!
