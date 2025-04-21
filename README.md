@@ -21,7 +21,7 @@ Clone o repositório ou baixe o arquivo:
 git clone https://github.com/seu-usuario/banco-da-julia.git
 cd banco-da-julia
 python "Banco da Ju .py"
-
+---
 # 💡 **Exemplo de uso**
 
 Bem-vindo(a) ao Banco da Júlia, o melhor do Brasil - rápido, fácil e simples!
