@@ -23,6 +23,7 @@ cd banco-da-julia
 python "Banco da Ju .py"
 
 # 💡 **Exemplo de uso**
+
 Bem-vindo(a) ao Banco da Júlia, o melhor do Brasil - rápido, fácil e simples!
 
 O que você quer fazer?
@@ -32,6 +33,7 @@ O que você quer fazer?
 4 - Sair
 
 # 🔮 **Melhorias Futuras**
+
 🔐 Login com usuário e senha
 🧾 Histórico de transações
 💾 Salvamento de dados com arquivos ou banco de dados
@@ -43,4 +45,5 @@ Linguagem: Python 3.x
 Estilo: Terminal Interativo
 
 # 👩‍💻 **Desenvolvido por**
+
 Júlia Lopes – estudante apaixonada por tecnologia, direito digital e inteligência artificial!
