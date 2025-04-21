@@ -18,7 +18,7 @@ Esse é um projeto didático em Python que simula um sistema bancário no termin
 Clone o repositório ou baixe o arquivo:
 
 ```bash
-git clone https://github.com/seu-usuario/banco-da-julia.git
+git clone https://github.com/jullx/Banco-da-Ju-2.0.git
 cd banco-da-julia
 python "Banco da Ju .py"
 
