@@ -4,7 +4,7 @@ Bem-vindo(a) ao **Banco da Júlia**, o banco mais confiável, rápido e simples 
 Esse é um projeto didático em Python que simula um sistema bancário no terminal.
 ---
 
-## ✨ **Funcionalidades**
+# ✨ **Funcionalidades**
 
 🔍 Verificar saldo  
 💸 Realizar depósitos  
