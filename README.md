@@ -21,6 +21,7 @@ Clone o repositório ou baixe o arquivo:
 git clone https://github.com/seu-usuario/banco-da-julia.git
 cd banco-da-julia
 python "Banco da Ju .py"
+
 ---
 # 💡 **Exemplo de uso**
 
@@ -32,6 +33,7 @@ O que você quer fazer?
 3 - Sacar dinheiro
 4 - Sair
 
+---
 # 🔮 **Melhorias Futuras**
 
 🔐 Login com usuário e senha
@@ -40,10 +42,12 @@ O que você quer fazer?
 🖼️ Interface gráfica com Tkinter
 🌐 Interface web com Flask ou Django
 
+---
 # 🧠 **Tecnologias**
 Linguagem: Python 3.x
 Estilo: Terminal Interativo
 
+---
 # 👩‍💻 **Desenvolvido por**
 
 Júlia Lopes – estudante apaixonada por tecnologia, direito digital e inteligência artificial!
